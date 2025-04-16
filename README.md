@@ -1,13 +1,13 @@
 # Java Calculator with Exception Handling
 
-## 🧮 Description
+##  Description
 This is a simple calculator application built in Java. It performs basic arithmetic operations such as addition, subtraction, multiplication, division, square, cube, and square root.
 
 Each operation is implemented in a **separate Java file** using static methods, and **exception handling** is used to catch runtime errors like division by zero or square root of negative numbers.
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 | File | Description |
 |------|-------------|
@@ -22,7 +22,7 @@ Each operation is implemented in a **separate Java file** using static methods, 
 
 ---
 
-## 🧾 Features
+##  Features
 - Menu-based interface
 - Exception handling for:
   - Division by zero
